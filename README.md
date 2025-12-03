@@ -2,6 +2,7 @@
 
 > Production-ready Retrieval‑Augmented Generation chatbot that chats about your files.
 
+![Demo](https://github.com/aziztarous1999/FileGossip-Backend/blob/main/demo/FileGossip%20UI.png)
 <p align="center">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-CLI%2013.x-dd0031?logo=angular&logoColor=white">
   <img alt="Node" src="https://img.shields.io/badge/Node.js-18%2B-43853D?logo=node.js&logoColor=white">
