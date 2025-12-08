@@ -251,7 +251,7 @@ npm run build    # CI=false ng build
 
 ## License
 
-This repository currently declares a custom license (`"license": "aziz tarous"` in the Angular `package.json`). If you intend to open‑source it, consider adding a standard LICENSE file (e.g., MIT). Otherwise, keep it private or specify custom terms in `/LICENSE`.
+This repository is an open‑source project designed to be adapted for your specific requirements.
 
 ---
 
